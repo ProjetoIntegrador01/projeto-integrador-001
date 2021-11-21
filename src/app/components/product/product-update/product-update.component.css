@@ -1,0 +1,27 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+form input {
+  margin: .5rem 0;
+}
+
+button {  
+  margin: .5rem 1rem;
+}
+
+.type-form {
+  display: flex;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.type-form > div {
+  margin: 0 1rem;
+}
+
+.type-form > div label {
+  margin-left: .5rem;
+}

@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+form input {
+  margin: .5rem 0;
+}
+
+button {  
+  margin: .5rem 1rem;
+}
+
+mat-radio-group {
+  margin: 1.3rem 0;
+}
+
+mat-radio-button {
+  margin: 0 1rem;
+}

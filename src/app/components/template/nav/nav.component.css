@@ -1,0 +1,27 @@
+.sidenav {
+  background: #32CD32;
+  width: 200px;
+}
+
+.sidenav a {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  transition: all .2s linear;
+}
+
+.sidenav a:hover {
+  background: #fff;
+  color: #32CD32;
+}
+
+.sidenav a i {
+  margin-right: 1rem;
+}
+
+.content {
+  width: auto;
+  height: auto;
+}
